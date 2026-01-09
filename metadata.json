@@ -1,0 +1,7 @@
+{
+  "name": "Copy of WanderGenie - AI Travel Planner",
+  "description": "A sophisticated travel planning application that generates personalized itineraries, budget estimates, and local recommendations using Gemini AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
